@@ -6,10 +6,12 @@ Herramienta de escaneo ICMP para el descubrimeinto de activos desarrollada en py
 
 ## USAGE
 
-python```
+
+```python
 python3 icmp_scan.py -r <rangp> -t <hilos>
 
-EJEMPLO
+# EJEMPLO
 
 python3 icmp_scan.py -r 192.168.0.0/16 -t 30
 ```
+
